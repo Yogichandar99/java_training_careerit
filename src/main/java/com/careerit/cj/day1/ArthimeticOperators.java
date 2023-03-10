@@ -1,7 +1,7 @@
 package com.careerit.cj.day1;
 import java.util.Scanner;
 
-public class arthimetic_operators
+public class ArthimeticOperators
 {
     public static void main(String args[])
     {
