@@ -2,7 +2,7 @@ package com.careerit.cj.day1;
 import java.util.Scanner;
 import java.lang.Math;
 
-public class cube_of_number
+public class CubeOfNumber
 {
     public static void main(String args[])
     {

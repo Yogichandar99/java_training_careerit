@@ -1,6 +1,6 @@
 package com.careerit.cj.day1;
 
-public class helloworld
+public class HelloWorld
 {
     public static void main(String args[])
     {

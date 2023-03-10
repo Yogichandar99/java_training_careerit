@@ -1,7 +1,7 @@
 package com.careerit.cj.day1;
 import java.util.Scanner;
 
-public class number_of_cabs {
+public class NumberOfCabs {
     public static void main(String args[])
     {
         int capacity,num,cabs;

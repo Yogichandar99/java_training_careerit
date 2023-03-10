@@ -1,7 +1,7 @@
 package com.careerit.cj.day1;
 import java.util.Scanner;
 
-public class swap_two_numbers {
+public class SwapTwoNumbers {
     public static void main(String args[])
     {
         int n1,n2;

@@ -1,6 +1,6 @@
 package com.careerit.cj.day1;
 import java.util.Scanner;
-public class average_weight {
+public class AverageWeight {
     public static void main(String args[])
     {
         float w1,w2,w3,w4,w5;

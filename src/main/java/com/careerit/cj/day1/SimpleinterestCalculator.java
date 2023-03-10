@@ -1,7 +1,7 @@
 package com.careerit.cj.day1;
 import java.util.Scanner;
 
-public class simpleinterest_calculator
+public class SimpleinterestCalculator
 {
     public static void main(String args[])
     {
